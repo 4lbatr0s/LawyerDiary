@@ -1,7 +1,43 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <Compile Update="Login.cs">
+    <Compile Update="DavaYonetimAnaEkran.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DavaYonetimIslem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FaturaAnaEkran.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FaturaIslemEkranı.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Giris.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="KullaniciIslemleri.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MahkemeIslemleri.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MainPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MusteriManager.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MusteriYonetimEkrani.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RandevuIslemleri.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RandevuYonetim.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ToDoList.cs">
       <SubType>Form</SubType>
     </Compile>
   </ItemGroup>
